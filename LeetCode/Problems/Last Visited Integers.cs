@@ -6,7 +6,7 @@ using System.Collections;
 #pragma warning disable SA1600
 public class Last_Visited_Integers : ILeetCodeProblem
 {
-    public string ProblemLink { get; set; } = "https://leetcode.com/problems/last-visited-integers/description/";
+    public string ProblemLink => "https://leetcode.com/problems/last-visited-integers/description/";
 
     public IList<int> LastVisitedIntegers(int[] nums)
     {

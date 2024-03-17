@@ -5,8 +5,8 @@ namespace LeetCode.Problems;
 #pragma warning disable SA1600
 public class Minimum_Operations_to_Form_Subsequence_With_Target_Sum : ILeetCodeProblem
 {
-    public string ProblemLink { get; set; } =
-        "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/";
+    public string ProblemLink => "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/";
+
     public int MinOperations(IList<int> nums, int target)
     {
         long sum = 0;

@@ -11,7 +11,7 @@ namespace LeetCode;
 #pragma warning disable SA1600
 public interface ILeetCodeProblem
 {
-    public string ProblemLink { get; set; }
+    public string ProblemLink { get; }
 
     public static void PintArray(IList arr)
     {
