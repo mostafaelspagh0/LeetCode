@@ -1,4 +1,4 @@
-namespace LeetCode.Problems;
+namespace ICPC2024.LeetCode.Problems;
 
 public class Most_Common_Word : ILeetCodeProblem
 {

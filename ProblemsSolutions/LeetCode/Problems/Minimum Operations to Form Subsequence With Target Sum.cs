@@ -1,4 +1,4 @@
-namespace LeetCode.Problems;
+namespace ICPC2024.LeetCode.Problems;
 
 // ReSharper disable once UnusedType.Global
 // ReSharper disable once InconsistentNaming

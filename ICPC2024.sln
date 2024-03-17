@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{E8FD9DAE-AB7E-4217-84CA-6874CAE01B77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolutions", "ProblemsSolutions\ProblemsSolutions.csproj", "{E8FD9DAE-AB7E-4217-84CA-6874CAE01B77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

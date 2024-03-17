@@ -4,12 +4,12 @@
 
 using System.Collections;
 
-namespace LeetCode;
+namespace ICPC2024.Codeforces;
 
 // ReSharper disable once UnusedType.Global
 // ReSharper disable once InconsistentNaming
 #pragma warning disable SA1600
-public interface ILeetCodeProblem
+public interface ICodeforcesProblem
 {
     public string ProblemLink { get; }
 

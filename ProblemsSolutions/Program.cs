@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using LeetCode.Problems;
+using ICPC2024.LeetCode.Problems;
 
 var problem = new Most_Common_Word();
 
