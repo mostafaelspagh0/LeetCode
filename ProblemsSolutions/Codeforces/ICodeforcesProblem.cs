@@ -13,12 +13,5 @@ public interface ICodeforcesProblem
 {
     public string ProblemLink { get; }
 
-    public static void PintArray(IList arr)
-    {
-        foreach (var element in arr)
-        {
-            Console.Write(element);
-            Console.Write(" ");
-        }
-    }
+    public void Solve();
 }
